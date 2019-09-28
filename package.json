@@ -10,12 +10,12 @@
                             "cadence", "test", "unit", "tap", "assert", "tdd"
     ],
     "author":               "Alan Gutierrez <alan@prettyrobots.com>",
-    "homepage":             "https://bigeasy.github.io/proof",
-    "bugs":                 "https://github.com/bigeasy/proof/issues",
+    "homepage":             "https://bigeasy.github.io/prove",
+    "bugs":                 "https://github.com/bigeasy/prove/issues",
     "license":              "MIT",
     "repository":
     {
-                            "url": "bigeasy/proof",
+                            "url": "bigeasy/prove",
                             "type": "git"
     },
     "dependencies":
@@ -34,7 +34,7 @@
     },
     "bin":
     {
-                            "proof":                        "proof.bin.js"
+                            "prove":                        "proof.bin.js"
     },
     "scripts":
     {
