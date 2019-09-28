@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nyc --exclude 't/**' npm test
